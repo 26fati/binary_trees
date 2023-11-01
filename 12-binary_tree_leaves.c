@@ -1,5 +1,5 @@
-#include "binary_trees.h"
 #include <stdlib.h>
+#include "binary_trees.h"
 
 /**
  * binary_tree_leaves - counts the leaves (terminal nodes) in a binary tree

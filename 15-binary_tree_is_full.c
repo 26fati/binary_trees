@@ -1,5 +1,5 @@
-#include "binary_trees.h"
 #include <stdlib.h>
+#include "binary_trees.h"
 
 /**
  * binary_tree_is_full - checks if a binary tree is full, meaning all nodes
